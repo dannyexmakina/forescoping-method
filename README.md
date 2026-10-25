@@ -1,6 +1,6 @@
 # Forescoping method
 
-- v0.1
+- v0.0.1
 
 ## 現行ドキュメント
 
